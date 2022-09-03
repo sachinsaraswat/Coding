@@ -5,6 +5,56 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "Launch SumRowOddNumbers",
+            "request": "launch",
+            "mainClass": "SumRowOddNumbers"
+        },
+        {
+            "type": "java",
+            "name": "Launch CreateMaxNumber",
+            "request": "launch",
+            "mainClass": "CreateMaxNumber"
+        },
+        {
+            "type": "java",
+            "name": "Launch HighAndLow",
+            "request": "launch",
+            "mainClass": "HighAndLow"
+        },
+        {
+            "type": "java",
+            "name": "Launch CountDuplicateChars",
+            "request": "launch",
+            "mainClass": "CountDuplicateChars"
+        },
+        {
+            "type": "java",
+            "name": "Launch SumOfDigits",
+            "request": "launch",
+            "mainClass": "SumOfDigits"
+        },
+        {
+            "type": "java",
+            "name": "Launch TempSolution",
+            "request": "launch",
+            "mainClass": "TempSolution"
+        },
+        {
+            "type": "java",
+            "name": "Launch TempSolution",
+            "request": "launch",
+            "mainClass": "TempSolution",
+            "projectName": "Coding_1a167743"
+        },
+        {
+            "type": "java",
+            "name": "Launch One",
+            "request": "launch",
+            "mainClass": "One",
+            "projectName": "Coding_1a167743"
+        },
+        {
             "name": "Python: Current File",
             "type": "python",
             "request": "launch",
